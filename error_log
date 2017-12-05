@@ -1,0 +1,130 @@
+[04-May-2017 15:52:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:58] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[04-May-2017 15:52:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:58] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[04-May-2017 15:52:58] PHP Notice:  Undefined index:  Tel in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 7
+[04-May-2017 15:52:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:59] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[04-May-2017 15:52:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:52:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[04-May-2017 15:52:59] PHP Notice:  Undefined index:  Tel in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 7
+[04-May-2017 15:53:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:12] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[04-May-2017 15:53:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[04-May-2017 15:53:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:40] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[04-May-2017 15:53:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[04-May-2017 15:53:40] PHP Notice:  Undefined index:  Tel in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 7
+[04-May-2017 15:53:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:51] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[04-May-2017 15:53:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[04-May-2017 15:53:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-May-2017 17:19:11] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:11] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:11] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-May-2017 17:19:11] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:11] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:11] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:11] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-May-2017 17:19:11] PHP Notice:  Undefined index:  Tel in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 7
+[08-May-2017 17:19:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:14] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-May-2017 17:19:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-May-2017 17:19:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[11-May-2017 01:15:48] PHP Notice:  Undefined index:  Tel in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 7
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[11-May-2017 01:15:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[22-Jun-2017 15:45:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:42] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[22-Jun-2017 15:45:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[22-Jun-2017 15:45:42] PHP Notice:  Undefined index:  Name in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 6
+[22-Jun-2017 15:45:42] PHP Notice:  Undefined index:  Tel in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 7
+[22-Jun-2017 15:45:42] PHP Notice:  Undefined index:  Email in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 8
+[22-Jun-2017 15:45:42] PHP Notice:  Undefined index:  Message in /home5/lochabay/public_html/coleenlochabay/art128/FinalWebSiteCiccone/contactengine.php on line 9
+[22-Jun-2017 15:45:49] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:49] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:49] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[22-Jun-2017 15:45:49] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:49] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:49] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[22-Jun-2017 15:45:49] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
